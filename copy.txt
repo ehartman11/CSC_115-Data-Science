@@ -1,0 +1,3 @@
+This is an example file with some content.
+I will be reading this file, copying the data,
+and writing it into a new file named copy.txt
